@@ -19,7 +19,7 @@ The user side allows users to see the 5 most recent polls. The user can also che
 To run this application, firstly you must clone it. Once cloned, using your cmd, CD into the cloned folder. If needed, install pip and pipenv.
 
 Once all is installed, simply run the commands:
-```bash
+```console
 Callums-MacBook-Pro-6:flask-guestbook callumhayden$ pipenv shell
 (Django-VotingApp) bash-3.2$ pipenv install django
 (Django-VotingApp) bash-3.2$ python manage.py runserver
